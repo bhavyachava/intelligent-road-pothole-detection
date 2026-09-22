@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+*.db
+*.sqlite
+*.sqlite3
+
+runs/
+*.pt
+*.weights
+
+.env
+.venv/
+venv/
+
+.ipynb_checkpoints/
